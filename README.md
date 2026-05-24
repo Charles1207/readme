@@ -75,8 +75,8 @@ Aplikasi booking mobil menggunakan Flutter & Supabase:
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Charles_1207)
-* Email: [your-email@example.com](mailto:charleshuang1207@gmail.com)
+* GitHub: [https://github.com/Charles_1207](https://github.com/Charles_1207)
+* Email: [Charleshuang1207@gmail.com](mailto:charleshuang1207@gmail.com)
 
 ---
 
