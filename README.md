@@ -65,8 +65,9 @@ Aplikasi booking mobil menggunakan Flutter & Supabase:
 ## 📊 GitHub Analysis
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charles1207&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 📈 Contribution Graph
+
+[![Charles's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charles1207&theme=tokyo-night)](https://github.com/Charles1207)
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles1207&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
