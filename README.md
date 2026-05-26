@@ -62,6 +62,20 @@ Aplikasi booking mobil menggunakan Flutter & Supabase:
 
 ---
 
+## 📊 GitHub Analysis
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charles_1207&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charles_1207&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Charles_1207&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 📖 Interests
 
 * UI/UX Design
@@ -76,7 +90,7 @@ Aplikasi booking mobil menggunakan Flutter & Supabase:
 ## 🌐 Connect With Me
 
 * GitHub: [https://github.com/Charles_1207](https://github.com/Charles_1207)
-* Email: [Charleshuang1207@gmail.com](mailto:charleshuang1207@gmail.com)
+* Email: [Charleshuang1207@gmail.com](mailto:Charleshuang1207@gmail.com)
 
 ---
 
